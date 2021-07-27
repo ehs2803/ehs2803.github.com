@@ -1,8 +1,9 @@
 ---
-title:  "[DB] 데이터모델링 "
+title:  "[DB/SQLD] 데이터모델링 "
 date: 2021-07-25 18:43:00
 categories:
   - 데이터베이스 
+  - SQLD
 tags:
   - 데이터베이스
   - 데이터베이스시스템
