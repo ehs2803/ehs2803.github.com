@@ -5,6 +5,7 @@ date: 2021-08-06 22:53:00
 categories:
   - 딥러닝스터디
   - python
+  - 딥러닝
 
 tags:
   - 딥러닝스터디
