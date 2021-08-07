@@ -1,5 +1,5 @@
 ---
-title:  "[딥러닝스터디] 딥러닝에 필요한 파이썬"
+title:  "[딥러닝스터디] 1. 딥러닝에 필요한 파이썬"
 excerpt: "numpy, matplotlib"
 date: 2021-08-06 22:53:00
 categories:
