@@ -44,6 +44,7 @@ tags:
 <br>
 
 # 랜덤포레스트 - 와인 분류
+
 ```python
 import numpy as np
 import pandas as pd
